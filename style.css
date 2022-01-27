@@ -1,0 +1,26 @@
+   
+   /* BOX INSIDE OF A BOX INSIDE OF A BOX */
+
+    h1{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    /* DIV OPTION 1 */
+    div{
+        border: 3px solid black;
+        margin: 100px auto;
+    }
+    #first {
+        width: 500px;
+        height: 500px;
+    }
+    #second{
+        width: 300px;
+        height: 300px;
+    }
+    #third{
+        width: 100px;
+        height: 100px;
+    }
+    
